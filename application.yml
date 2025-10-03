@@ -1,3 +1,7 @@
+spring
+  applications
+    name: CONFGI-DEFAULT
+  
   eureka:
     client:
       # Eureka client will fetch the registry and register itself
