@@ -1,5 +1,5 @@
-spring
-  applications
+spring:
+  applications:
     name: CONFGI-DEFAULT
   
   eureka:
